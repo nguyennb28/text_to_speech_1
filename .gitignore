@@ -1,0 +1,6 @@
+/myvenv
+/*.mp3
+/src/*.mp3
+/src/build
+/src/dist/*.mp3
+/src/text_to_speech.spec

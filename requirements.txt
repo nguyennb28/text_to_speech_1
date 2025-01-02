@@ -1,0 +1,4 @@
+asyncio
+edge-tts
+mpv
+pyinstaller
